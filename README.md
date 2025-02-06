@@ -1,2 +1,7 @@
 # Mini_Calculadora_Guanentina
-Mini calculadora para realizar funciones basicas
+
+## Funcionamiento
+ES una calculadora que permite hacer simples operaciones poniendo los valores que desea utilizar
+
+##  Diagrama 
+![diagrmadeflujo](diagrama.png "diagramadeflujo")
